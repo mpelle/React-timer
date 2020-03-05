@@ -1,5 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is a basic timer created using React Js
+Increase or decrease the time on the clock with the arrows and click "start timer" to begin countdown.
 
+	**Hold Shift and click up or down to increase or decrease the time by 10 seconds on the clock.**
+
+	
+	
 ## Available Scripts
 
 In the project directory, you can run:
